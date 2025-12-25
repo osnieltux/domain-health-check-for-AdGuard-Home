@@ -12,12 +12,6 @@ The idea came about while using 1.1.1.3 (Cloudflare Family) as a DNS to block co
 
 ## If you just want to use my list, simply add it to your AdGuard Home.
 
-```bash
-https://raw.githubusercontent.com/osnieltux/domain-health-check-for-AdGuard-Home/refs/heads/main/list_checked.txt
-```
-
----
-
 # Dependencies
 
 - [Python](https://www.python.org)
