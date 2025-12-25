@@ -2,8 +2,6 @@
 
 Given a list of domains, check which ones return a 200 OK web response. Additionally, enable manual browser verification of the content to generate a new list for use in AdGuard.
 
-This repository contains lists of domains for filtering purposes. It does not host or promote adult content.
-
 ---
 
 The idea came about while using 1.1.1.3 (Cloudflare Family) as a DNS to block content and noticing that some adult sites are still accessible. This led me to check the old 'Shalla Blacklists.' However, given there are over 803000 sites to verify, to see if they are still active or not yet blocked. I decided to build a tool to filter exactly what I need. (I used some AI assistance for modeling, so it’s not built 100% from scratch; I’m short on time, and AI is your friend!)
