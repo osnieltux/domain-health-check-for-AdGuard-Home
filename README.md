@@ -8,7 +8,7 @@ The idea came about while using 1.1.1.3 (Cloudflare Family) as a DNS to block co
 
 ---
 
-## If you just want to use my list, simply add it to your AdGuard Home.
+## If you just want to use my list,contact me.
 
 # Dependencies
 
